@@ -3,7 +3,7 @@
  * @author NHN. FE Development Lab <dl_javascript@nhn.com>
  */
 import React from 'react';
-import TuiImageEditor from 'tui-image-editor';
+import TuiImageEditor from '@ambichetan/tui-image-editor';
 
 export default class ImageEditor extends React.Component {
   rootEl = React.createRef();

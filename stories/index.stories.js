@@ -1,8 +1,8 @@
 import React from 'react';
 import {storiesOf} from '@storybook/react';
 
-import 'tui-image-editor/dist/tui-image-editor.css';
-import 'tui-color-picker/dist/tui-color-picker.css';
+import '@ambichetan/tui-image-editor/dist/tui-image-editor.css';
+import '@ambichetan/tui-image-editor/dist/tui-color-picker.css';
 
 import ImageEditor from '../src/index';
 
