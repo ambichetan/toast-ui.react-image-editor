@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@ambichetan/tui-image-editor@^3.12.0":
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/@ambichetan/tui-image-editor/-/tui-image-editor-3.12.0.tgz#425418bc362b572e7dcc1932cfb7898adecefa51"
-  integrity sha512-scoT+FOG6lOcCzvKIVzQ5agHk44yOp1DL6b29fA73sKSnl2vLv76qG/9+411rNTgoX9CWWkG94b99W9pdMukeA==
+"@ambichetan/tui-image-editor@^3.13.0":
+  version "3.13.0"
+  resolved "https://registry.yarnpkg.com/@ambichetan/tui-image-editor/-/tui-image-editor-3.13.0.tgz#97aa268f6c7cd0d102986d51596c9602dbad92e7"
+  integrity sha512-p0ahkCPtTmxb0+NkDCsixFSinOb8q+bA7iJgnwDOZLtao1pvQJhLXQui4bNm9+nEQxZLMH7ZE/z8cvHqneeRUg==
   dependencies:
     core-js-pure "^3.6.4"
     fabric "4.2.0"
