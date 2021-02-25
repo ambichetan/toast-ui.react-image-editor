@@ -1,6 +1,6 @@
 {
   "name": "@ambichetan/react-image-editor",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "React wrapper component for tui.imageEditor without CSP issue",
   "main": "dist/toastui-react-image-editor.js",
   "files": [
@@ -53,7 +53,7 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-    "@ambichetan/tui-image-editor": "^3.13.0",
+    "@ambichetan/tui-image-editor": "^3.14.0",
     "fabric": "4.2.0"
   }
 }
